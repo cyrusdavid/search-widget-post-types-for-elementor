@@ -1,0 +1,6 @@
+*	text=auto
+
+/.wordpress-org export-ignore
+/.github export-ignore
+/pot.sh export-ignore
+.gitignore export-ignore
