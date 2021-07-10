@@ -3,7 +3,7 @@ Contributors: tarosnow
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SG7E4TZWQAGEJ&currency_code=USD
 Tags: elementor, search widget, custom post types, products, types, post type, woocommerce, elementor search widget
 Requires at least: 5.5
-Tested up to: 5.5.1
+Tested up to: 5.7.2
 Stable tag: 1.0.2
 License: MIT
 Requires PHP: 5.6
