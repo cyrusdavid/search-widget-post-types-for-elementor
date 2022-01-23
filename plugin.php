@@ -4,7 +4,7 @@ Plugin Name: Search Widget Post Types for Elementor
 Description: Adds an option to make Elementor's search widget only search for a specific post type such as WooCommerce products or custom post types.
 Text Domain: search-widget-post-types-for-elementor
 Domain Path: /lang
-Version: 1.0.2
+Version: 1.0.3
 */
 
 
